@@ -1,7 +1,3 @@
-// Decompiled by DJ v3.12.12.96 Copyright 2011 Atanas Neshkov  Date: 7/27/2012 12:53:39 AM
-// Home Page: http://members.fortunecity.com/neshkov/dj.html  http://www.neshkov.com/dj.html - Check often for new version!
-// Decompiler options: packimports(3) 
-// Source File Name:   Commandgive.java
 
 package com.earth2me.essentials.commands;
 
@@ -14,8 +10,6 @@ import org.bukkit.enchantments.Enchantment;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 
-// Referenced classes of package com.earth2me.essentials.commands:
-//            EssentialsCommand, NotEnoughArgumentsException, Commandenchant
 
 public class Commandgive extends EssentialsCommand
 {
